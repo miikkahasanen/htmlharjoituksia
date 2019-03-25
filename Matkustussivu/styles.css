@@ -1,0 +1,69 @@
+﻿body{
+	background-color: #ededed;
+}
+#logo {
+	width: 200px;
+	height: 200px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+#kaunoteksti {
+	font-family: 'Parisienne', cursive;
+	text-align: center;
+	margin-top: -1px;
+	font-size: 38px;
+}
+.navbar {
+	display: inline;
+	margin-left: 0px;
+	padding-left: 100px;
+}
+.navigointi {
+float: left;
+margin-top: -210px;
+font-size: 65px;
+margin-left: -50px;
+
+
+}
+.navigointi2 {
+	float: right;
+	margin-top: -210px;
+	font-size: 65px;
+	margin-right: 80px;
+
+}
+a:link {
+  text-decoration: none;
+  color: black;
+}
+a:visited {
+	text-decoration: none;
+	color: black;
+}
+a:active {
+	color: black;
+}
+#kuva1 {
+	width: 60%;
+	height: 800px;
+	border: 5px black solid;
+	margin-left: 100px;
+}
+#kerava {
+	font-family: 'ZCOOL KuaiLe', cursive;
+	text-align: right;
+	margin-right: 150px;
+	margin-top: -800px;
+	font-size: 75px;
+	text-decoration: underline double black;
+}
+article {
+	width: 400px;
+	text-align: center;
+	float: right;
+	margin-right: 110px;
+	margin-top: -40px;
+	font-size: 20px;
+}

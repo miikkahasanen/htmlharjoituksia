@@ -8,12 +8,6 @@
 	margin-left: auto;
 	margin-right: auto;
 }
-#kaunoteksti {
-	font-family: 'Parisienne', cursive;
-	text-align: center;
-	margin-top: -1px;
-	font-size: 38px;
-}
 .navbar {
 	display: inline;
 	margin-left: 0px;
@@ -21,7 +15,7 @@
 }
 .navigointi {
 float: left;
-margin-top: -210px;
+margin-top: -130px;
 font-size: 65px;
 margin-left: -50px;
 
@@ -29,7 +23,7 @@ margin-left: -50px;
 }
 .navigointi2 {
 	float: right;
-	margin-top: -210px;
+	margin-top: -130px;
 	font-size: 65px;
 	margin-right: 80px;
 
@@ -50,6 +44,7 @@ a:active {
 	height: 800px;
 	border: 5px black solid;
 	margin-left: 100px;
+	margin-top: 100px;
 }
 #kerava {
 	font-family: 'ZCOOL KuaiLe', cursive;
@@ -67,8 +62,54 @@ article {
 	font-size: 20px;
 	background-color: #75ff63;
 	border-radius: 20px;
-	margin-top: 10px;
+	margin-top: 100px;
 }
 article p {
 	margin-top: -30px;
+}
+
+/*Info sivun css alkaa tästä*/
+
+#minä {
+	width: 1000px;
+	height: 700px;
+}
+#kuvamusta {
+	width: 200px;
+	height: 200px;
+	margin-left: 400px;
+	margin-top: 100px;
+}
+#nimi {
+	font-family: hobo-std, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	margin-left: 410px;
+}
+
+/*ota Yhteyttä sivu css alkaa tästä*/
+
+#kuvamusta2 {
+	width: 300px;
+	height: 300px;
+	border-radius: 50%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0px;
+}
+#yhteys {
+	margin-left: 740px;
+	font-size: 40px;
+	display: block;
+	margin-top: 30px;
+	
+}
+#raja {
+	width: 300px;
+	height: 300px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 100px;
 }
